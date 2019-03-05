@@ -3,7 +3,7 @@ include '../include/header.php'
 ?>
 
 <!-- Page Content -->
-<div class="container">
+<div class="container" id="contacthead">
 
     <!-- Page Heading/Breadcrumbs -->
     <h1 class="red lighten-4 white-text text-uppercase font-weight-bold text-center py-2" id="Contact">Contact</h1>
