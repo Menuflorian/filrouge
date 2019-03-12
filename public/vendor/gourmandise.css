@@ -41,9 +41,12 @@ footer {
 
 #Contact{
     margin-top: 25px;
+
 }
 
-
+#formulairecontact{
+    min-height: 100vh;
+}
 /*navbar*/
 .aadi-header-collaspe {
      background-color:#ffffff;
@@ -57,7 +60,7 @@ a{
 .nav-item {
     font-family: Century Gothic;
     margin: 0 auto;
-    padding: 2em 3em;
+    padding: 1em 1em;
     text-align: center;
 }
 .nav-item a {
@@ -98,5 +101,5 @@ a{
 
 #contacthead{
     padding-top: 80px
-    
+
 }

@@ -4,19 +4,13 @@ include '../include/header.php'
 
 
   <!-- Page Content -->
-  <div class="container">
+  <div class="container" id="contacthead">
 
-    <!-- Page Heading/Breadcrumbs -->
-    <h1 class="mt-4 mb-3">Services
-      <small>Subheading</small>
-    </h1>
+      <!-- Page Heading/Breadcrumbs -->
+      <h1 class="red lighten-4 white-text text-uppercase font-weight-bold text-center py-2" id="Contact">Service</h1>
+      <!-- Content Row -->
 
-    <ol class="breadcrumb">
-      <li class="breadcrumb-item">
-        <a href="index.html">Home</a>
-      </li>
-      <li class="breadcrumb-item active">Services</li>
-    </ol>
+
 
     <!-- Image Header -->
     <img class="img-fluid rounded mb-4" src="http://placehold.it/1200x300" alt="">

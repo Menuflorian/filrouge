@@ -11,23 +11,25 @@
 </head>
 
 
-<!-- Navigation -->
+
 <nav class="menum navbar navbar-light navbar-expand-md justify-content-center fixed-top" id='manavbar'>
+                <div class="nav-item">
+                  <a class="navbar-brand" href="index.php">Gourmandises, Séraphin Parys</a>
+                </div>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                   aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse " id="navbarSupportedContent">
+                      <div class="navbar-collapse collapse justify-content-between align-items-center w-100" id="collapsingNavbar2">
+                    <ul class="topBotomBordersOut navbar-nav mx-auto text-center">
 
-
-  <div class="navbar-collapse collapse justify-content-between align-items-center w-100" id="collapsingNavbar2">
-    <ul class="topBotomBordersOut navbar-nav mx-auto text-center">
-      <li class="nav-item">
-        <a class="navbar-brand" href="index.php">Gourmandises, Séraphin Parys</a>
-      </li>
-      <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
-      <li class="nav-item"> <a class="nav-link" href="services.php">Services</a>
-      <li class="nav-item"> <a class="nav-link" href="#">Portfolio</a>
-      <li class="nav-item"> <a class="nav-link" href="#">Blog</a>
-      <li class="nav-item"> <a class="nav-link" href="contact.php">Contact</a>
-      </li>
-    </ul>
-  </div>
-
-</nav>
+                      <li class="nav-item"><a class="nav-link" href="disclaimer.php">Mention legal</a></li>
+                      <li class="nav-item"> <a class="nav-link" href="produit.php">Nos produits</a>
+                      <li class="nav-item"> <a class="nav-link" href="plan.php">Plan du site</a>
+                      <li class="nav-item"> <a class="nav-link" href="contact.php">Contact</a>
+                      </li>
+                    </ul>
+                  </div>
+             </nav>
 <body>
